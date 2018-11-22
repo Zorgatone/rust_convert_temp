@@ -41,12 +41,7 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
-### Example user template template
-### Example user template
 
-# IntelliJ project files
-.idea
-*.iml
 out
 gen### C++ template
 # Prerequisites
